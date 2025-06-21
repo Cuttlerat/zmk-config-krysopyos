@@ -65,7 +65,7 @@
                 &kp A  &kp S  &kp D  &kp F  &kp G         &kp H  &kp J  &kp K             &kp L    &kp SEMI
                 &kp Z  &kp X  &kp C  &kp V  &kp B         &kp N  &kp M  &kp COMMA         &kp DOT  &kp FSLH
                        &kp Z  &kp X                              &kp LEFT_BRACKET  &kp SQT
-                &kp SPACE  &sb    &mo 6  &mo 4  &ca    &kp LEFT_WIN
+                &sb  &kp SPACE     &mo 6  &mo 4  &ca    &kp LEFT_WIN
                                                                         
             >;
         };
