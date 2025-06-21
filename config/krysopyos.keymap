@@ -83,9 +83,9 @@
 
         gaming_mode {
             bindings = <
-&kp TAB    &kp Q   &kp W  &kp E         &kp R         &trans  &trans     &trans     &trans     &trans  &trans
-&kp LSHFT  &kp A   &kp S  &kp D         &kp F         &trans  &mkp LCLK  &mkp RCLK  &mkp MCLK  &trans  &trans
-&kp LCTRL  &kp Z   &kp X  &kp C         &kp V         &trans  &mo 8      &trans     &trans     &trans  &trans
+&kp TAB    &kp Q   &kp W  &kp E         &kp R         &trans  &trans     &trans     &trans     &trans
+&kp LSHFT  &kp A   &kp S  &kp D         &kp F         &trans  &mkp LCLK  &mkp RCLK  &mkp MCLK  &trans
+&kp LCTRL  &kp Z   &kp X  &kp C         &kp V         &trans  &mo 8      &trans     &trans     &trans
 &trans     &trans &trans     &trans
 &mo 9 &kp SPACE        &tog 2  &mo 4  &kp LEFT_ALT  &kp LEFT_WIN
                                                                                     
