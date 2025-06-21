@@ -20,7 +20,7 @@
         x_blocker: x_blocker {
             compatible = "zmk,input-processor-code-mapper";
             #input-processor-cells = <0>;
-            type = <nnnnnINPUT_EV_REL>;
+            type = <INPUT_EV_REL>;
             map = <INPUT_REL_X INPUT_REL_MISC>;
         };
         
