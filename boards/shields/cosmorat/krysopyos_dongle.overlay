@@ -20,7 +20,7 @@
         x_blocker: x_blocker {
             compatible = "zmk,input-processor-code-mapper";
             #input-processor-cells = <0>;
-            type = <INPUT_EV_REL>;
+            type = <nnnnnINPUT_EV_REL>;
             map = <INPUT_REL_X INPUT_REL_MISC>;
         };
         
@@ -39,7 +39,7 @@
 
 &trackball_listener {
     status = "okay";
-    input-processors = <&zip_temp_layer 7 2000 &zip_xy_scaler 1 2>;
+    input-processors = <&zip_temp_layer 7 2000 &zip_xy_scaler 2 3>;
 
     scroll_layer {
         layers = <8>;
