@@ -1,0 +1,13 @@
+if SHIELD_KRYSOPYOS_RIGHT
+    config SPI
+        default y
+    config ZMK_POINTING
+        default y
+endif
+
+if SHIELD_KRYSOPYOS_DONGLE
+    config ZMK_SPLIT_ROLE_CENTRAL
+        default y
+    config ZMK_POINTING
+        default y
+endif

@@ -1,0 +1,8 @@
+---
+file_format: 1
+id: krysopyos
+name: Krysopyos
+type: shield
+url: https://github.com/Cuttlerat/zmk-config-krysopyos
+requires: 
+  - pro_micro
