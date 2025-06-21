@@ -61,9 +61,9 @@
 
         main {
             bindings = <
-                &kp Q  &kp W  &kp E  &kp R  &kp T         &kp Y  &kp U  &kp I             &kp O    &kp P     &none
-                &kp A  &kp S  &kp D  &kp F  &kp G         &kp H  &kp J  &kp K             &kp L    &kp SEMI  &none
-                &kp Z  &kp X  &kp C  &kp V  &kp B         &kp N  &kp M  &kp COMMA         &kp DOT  &kp FSLH  &none
+                &kp Q  &kp W  &kp E  &kp R  &kp T         &kp Y  &kp U  &kp I             &kp O    &kp P    
+                &kp A  &kp S  &kp D  &kp F  &kp G         &kp H  &kp J  &kp K             &kp L    &kp SEMI
+                &kp Z  &kp X  &kp C  &kp V  &kp B         &kp N  &kp M  &kp COMMA         &kp DOT  &kp FSLH
                        &kp Z  &kp X                              &kp LEFT_BRACKET  &kp SQT
                 &kp SPACE  &sb    &mo 6  &mo 4  &ca    &kp LEFT_WIN
                                                                         
