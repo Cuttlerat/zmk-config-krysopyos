@@ -130,11 +130,11 @@
 
         gaming_numbers {
             bindings = <
-&kp ESCAPE        &kp N1  &kp N2      &kp N3  &kp NUMBER_2  &trans  &trans  &trans  &trans  &trans
-&kp LEFT_SHIFT    &kp N4  &kp N5      &kp N6  &kp N0        &trans  &trans  &trans  &trans  &trans
-&kp LEFT_CONTROL  &kp N7  &kp N8      &kp N9  &kp RET       &trans  &trans  &trans  &trans  &trans
-&trans            &trans  &mktg LCLK  &mktg RCLK
-&trans            &trans  &trans      &trans  &trans        &trans
+&kp ESCAPE        &kp N1         &kp N2      &kp N3      &kp NUMBER_2  &trans  &trans  &trans  &trans  &trans
+&kp LEFT_SHIFT    &kp N4         &kp N5      &kp N6      &kp N0        &trans  &trans  &trans  &trans  &trans
+&kp LEFT_CONTROL  &kp N7         &kp N8      &kp N9      &kp RET       &trans  &trans  &trans  &trans  &trans
+&kp DELETE        &kp BACKSPACE  &mktg LCLK  &mktg RCLK
+&trans            &trans         &trans      &trans      &trans        &trans
             >;
         };
     };
