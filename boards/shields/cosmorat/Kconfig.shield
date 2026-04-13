@@ -3,6 +3,3 @@ config SHIELD_KRYSOPYOS_LEFT
 
 config SHIELD_KRYSOPYOS_RIGHT
 	def_bool $(shields_list_contains,krysopyos_right)
-
-config SHIELD_KRYSOPYOS_DONGLE
-	def_bool $(shields_list_contains,krysopyos_dongle)

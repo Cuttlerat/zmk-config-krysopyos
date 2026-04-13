@@ -28,8 +28,4 @@ include:
     artifact-name: krysopyos_right
     # snippet: zmk-usb-logging
   - board: nice_nano//zmk
-    shield: krysopyos_dongle
-    artifact-name: krysopyos_dongle
-    # snippet: zmk-usb-logging
-  - board: nice_nano//zmk
     shield: settings_reset
